@@ -52,15 +52,15 @@ export const services = [
 export const texts = {
   header_main1:
     "Licenciada em Solicitadoria, inscrita na OSAE desde Junho de 2021.",
-  header_p1: "Delegação Concelhia de Ponte de Lima",
+  header_p1: "Delegação Concelhia de Viana do Castelo",
   header_p2: "CP 8720",
 };
 
 export const contacts = {
-  address: "Rua Conceição Madruga 14 3º Esquerdo",
-  postalCode: "4900-826 Viana do Castelo",
+  address: "Rua Dr. Ribeiro da Silva 39",
+  postalCode: "4900-454 Viana do Castelo",
   country: "Portugal",
   phones: ["939 000 000", "220 000 000"],
-  emails: ["gabriela_pint@gmail.com", "osae@osae.pt"],
-  schedule: "Segunda - Sexta: 09:00h - 18:00h",
+  emails: ["gabrielapintosolicitadora@gmail.com"],
+  schedule: "Segunda - Sexta: 09:00h - 19:00h",
 };
