@@ -17,11 +17,15 @@ const Service = ({ service }) => {
         </div>
       </div>
       <div className="py-8 w-full h-full flip-card-back text-center antialiased subpixel-antialiased grid grid-rows-[80%_20%]">
-        <div className="flex flex-col justify-center card_back_text px-[10%]">
+        <div className="h-full flex flex-col justify-center content-center items-center card_back_text px-[10%]">
           <h1 className="font-bold sm:text-[2rem] xs:text-lg">
             {service.title}
           </h1>
-          <p className="p-4 sm:text-base xs:text-xs">{service.text}</p>
+          <div className="flex justify-center content-center items-center my-2">
+            <p className="h-[70%] px-4 sm:text-base xs:text-xs ">
+              {service.text}
+            </p>
+          </div>
         </div>
         <div className="card_back_btn grid grid-cols-[30%_70%] justify-items-start items-center pl-[10%]">
           <p className="sm:text-xl xs:text-lg font-bold mr-2">Contactar</p>
