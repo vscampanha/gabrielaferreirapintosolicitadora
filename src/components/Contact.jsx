@@ -70,7 +70,7 @@ const Contact = () => (
                 className="hover:text-main"
                 href={`tel:+351${phone}`}
               >
-                +351 {phone}
+                {phone}
               </a>
             );
           })}

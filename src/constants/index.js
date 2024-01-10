@@ -60,7 +60,7 @@ export const contacts = {
   address: "Rua Dr. Ribeiro da Silva 39",
   postalCode: "4900-454 Viana do Castelo",
   country: "Portugal",
-  phones: ["939 000 000", "220 000 000"],
+  phones: ["telm. + 351 910 805 136"],
   emails: ["gabrielapintosolicitadora@gmail.com"],
   schedule: "Segunda - Sexta: 09:00h - 19:00h",
 };

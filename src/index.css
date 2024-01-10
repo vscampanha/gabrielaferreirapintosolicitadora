@@ -39,7 +39,7 @@ label {
 }
 
 .card_front {
-  transform: var(--level-two);
+  transform: var(--level-one);
 }
 
 .card_back_text {
@@ -47,7 +47,7 @@ label {
 }
 
 .card_back_btn {
-  transform: var(--level-two);
+  transform: var(--level-one);
 }
 
 .flip-card-front,
