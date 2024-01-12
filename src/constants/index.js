@@ -60,6 +60,6 @@ export const contacts = {
   postalCode: "4900-454 Viana do Castelo",
   country: "Portugal",
   phones: ["+351 910 805 136"],
-  emails: ["gabrielapintosolicitadora@gmail.com"],
+  emails: ["gabrielaferreirapinto08720@osae.pt"],
   schedule: "Segunda - Sexta: 09:00h - 19:00h",
 };
