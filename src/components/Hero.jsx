@@ -39,6 +39,7 @@ const Hero = () => {
         <div className="col-span-2 col-start-3 my-6 xs:text-sm sm:text-xl md:text-lg">
           <div className="xs:w-[80%] sm:w-[60%] md:w-[30%] xs:my-4 w-[25%]">
             <p>{texts.header_main1}</p>
+            <p>{texts.header_main2}</p>
             <p className="italic">
               {texts.header_p1} - {texts.header_p2}
             </p>

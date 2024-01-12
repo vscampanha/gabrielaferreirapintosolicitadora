@@ -19,41 +19,40 @@ export const services = [
   {
     id: "family",
     title: "Direito da Familia e Sucessões",
-    text: "Acordos antenupciais, divorcios, partilha mortis causa, partilha subsquente a divórcio.",
+    text: "Casamentos, Acordos Antenupciais, Divórcios, Partilhas mortis causa, Partilhas subsquentes a divórcio.",
     icon: family,
   },
   {
     id: "court",
     title: "Registos e Notariado",
-    text: "Georrefernciação - BUPI, Registo predial, Registo comercial, Registo automóvel, Elaboração de contratos, Documentos particulares autenticados (compra e venda, doação), Procurações, Autenticação de documentos, Reconhecimento de assinaturas, Certificação de fotocópias.",
+    text: "Georrefernciação - BUPI, Registo Predial, Registo Comercial, Registo Automóvel, Elaboração de contratos, Documentos Particulares Autenticados (compra e venda, doação, partilha, entre outros), Procurações, Reconhecimento de assinaturas, Certificação de fotocópias.",
     icon: approval,
   },
   {
     id: "justice",
     title: "Direito Comercial",
-    text: "Constituição de empresas, Alteração do pacto social, entre outros.",
+    text: "Constituição de Empresas, Alteração do Pacto Social, entre outros.",
     icon: justica,
   },
   {
     id: "approval",
     title: "Direito do Trabalho",
-    text: "Elaboração de contratos de trabalho, direitos e deveres do trabalhador/empregador.",
-
+    text: "Direitos e deveres do trabalhador/empregador. Elaboração de contratos de trabalho.",
     icon: court,
   },
   {
     id: "building",
     title: "Direito Fiscal",
-    text: "Avaliações prediais - Modelo 1 do IMI, Imposto de selo, IMT, Legalização de viaturas estrangeiras.",
+    text: "Avaliações Prediais, IMI, Imposto de selo, IMT.",
     icon: handshake,
   },
 ];
 
 export const texts = {
-  header_main1:
-    "Licenciada em Solicitadoria, inscrita na OSAE desde Junho de 2021.",
-  header_p1: "Delegação Concelhia de Viana do Castelo",
-  header_p2: "CP 8720",
+  header_main1: "Licenciada em Solicitadoria.",
+  header_main2: "Associada da OSAE desde Junho de 2021.",
+  header_p1: "Cédula Profissional",
+  header_p2: "8720",
 };
 
 export const contacts = {
