@@ -65,13 +65,12 @@ const Contact = () => (
         <div className="grid grid-col-1 gap-2">
           {contacts.phones.map((phone) => {
             return (
-              <a
-                key={phone}
-                className="hover:text-main"
-                href={`tel:+351${phone}`}
-              >
-                {phone}
-              </a>
+              <div className="flex">
+                <p>telm. &nbsp;</p>
+                <a key={phone} className="hover:text-main" href={`${phone}`}>
+                  {phone}
+                </a>
+              </div>
             );
           })}
         </div>
