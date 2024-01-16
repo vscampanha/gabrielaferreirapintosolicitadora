@@ -19,13 +19,13 @@ export const services = [
   {
     id: "family",
     title: "Direito da Familia e Sucessões",
-    text: "Casamentos, Acordos Antenupciais, Divórcios, Partilhas mortis causa, Partilhas subsquentes a divórcio.",
+    text: "Casamentos, Acordos Antenupciais, Divórcios, Partilhas mortis causa, Partilhas subsequentes a divórcio.",
     icon: family,
   },
   {
     id: "court",
     title: "Registos e Notariado",
-    text: "Georrefernciação - BUPI, Registo Predial, Registo Comercial, Registo Automóvel, Elaboração de contratos, Documentos Particulares Autenticados (compra e venda, doação, partilha, entre outros), Procurações, Reconhecimento de assinaturas, Certificação de fotocópias.",
+    text: "Georreferenciação - BUPI, Registo Predial, Registo Comercial, Registo Automóvel, Elaboração de contratos, Documentos Particulares Autenticados (compra e venda, doação, partilha, entre outros), Procurações, Reconhecimento de assinaturas, Certificação de fotocópias.",
     icon: approval,
   },
   {
