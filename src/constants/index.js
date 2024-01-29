@@ -19,7 +19,7 @@ export const services = [
   {
     id: "family",
     title: "Direito da Familia e Sucessões",
-    text: "Casamentos, Acordos Antenupciais, Divórcios, Partilhas mortis causa, Partilhas subsequentes a divórcio.",
+    text: "Partilhas mortis causa, Partilhas subsequentes a divórcio, Processo de Casamentos, Acordos Antenupciais, Processo de Divórcios por múto consentimento.",
     icon: family,
   },
   {
