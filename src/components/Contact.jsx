@@ -70,6 +70,7 @@ const Contact = () => (
               </a>
             );
           })}
+          <p className="text-xs italic">Chamada rede móvel nacional</p>
         </div>
       </div>
     </div>
